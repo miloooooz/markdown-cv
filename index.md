@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Milo Zhou's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ruijun(Milo) Zhou
+I am a student of Master of IT in UNSW currently looking for a full time position as a software engineer, expected to graduate at December of 2020. 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="milozhou.me">milozhou.me</a>
+| <a href="mailto:zhouruijun0510@hotmail.com">zhouruijun0510@hotmail.com</a>
 </div>
 
 
